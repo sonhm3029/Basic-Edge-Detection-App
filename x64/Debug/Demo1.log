@@ -1,0 +1,21 @@
+﻿  MyForm.cpp
+D:\Compressed\EDGE_DETECTION_APP\Demo1\MyForm.h(260,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Compressed\EDGE_DETECTION_APP\Demo1\MyForm.h(382,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Compressed\EDGE_DETECTION_APP\Demo1\MyForm.h(384,74): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Compressed\EDGE_DETECTION_APP\Demo1\MyForm.h(384,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Compressed\EDGE_DETECTION_APP\Demo1\MyForm.h(401,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Compressed\EDGE_DETECTION_APP\Demo1\MyForm.h(403,73): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Compressed\EDGE_DETECTION_APP\Demo1\MyForm.h(403,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Compressed\EDGE_DETECTION_APP\Demo1\MyForm.h(420,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Compressed\EDGE_DETECTION_APP\Demo1\MyForm.h(422,74): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Compressed\EDGE_DETECTION_APP\Demo1\MyForm.h(422,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Programs\opencv\build\include\opencv2\core\mat.inl.hpp(542): warning C4793: 'cv::Mat::Mat': function compiled as native:
+  	Found an intrinsic not supported in managed code
+D:\Programs\opencv\build\include\opencv2\core\mat.inl.hpp(862): warning C4793: 'cv::Mat::release': function compiled as native:
+  	Found an intrinsic not supported in managed code
+D:\Programs\opencv\build\include\opencv2\core\mat.inl.hpp(2201): warning C4793: 'cv::SparseMat::addref': function compiled as native:
+  	Found an intrinsic not supported in managed code
+D:\Programs\opencv\build\include\opencv2\core\mat.inl.hpp(3804): warning C4793: 'cv::UMat::addref': function compiled as native:
+  	Found an intrinsic not supported in managed code
+  EdgeDectection.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Demo1.vcxproj -> D:\Compressed\EDGE_DETECTION_APP\Demo1\x64\Debug\Demo1.exe

@@ -1,0 +1,10 @@
+C:\Users\Admin\Desktop\Demo\Demo1\x64\Debug\Demo1.vcxprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Demo\Demo1\x64\Debug\Demo1.exe
+C:\Users\Admin\Desktop\Demo\Demo1\x64\Debug\Demo1.pdb
+C:\Users\Admin\Desktop\Demo\Demo1\x64\Debug\Demo1.MyForm.resources
+C:\Users\Admin\Desktop\Demo\Demo1\x64\Debug\Demo1.vcxproj.GenerateResource.cache
+D:\Compressed\EDGE_DETECTION_APP\Demo1\x64\Debug\Demo1.vcxprojAssemblyReference.cache
+D:\Compressed\EDGE_DETECTION_APP\Demo1\x64\Debug\Demo1.MyForm.resources
+D:\Compressed\EDGE_DETECTION_APP\Demo1\x64\Debug\Demo1.vcxproj.GenerateResource.cache
+D:\Compressed\EDGE_DETECTION_APP\Demo1\x64\Debug\Demo1.exe
+D:\Compressed\EDGE_DETECTION_APP\Demo1\x64\Debug\Demo1.pdb
